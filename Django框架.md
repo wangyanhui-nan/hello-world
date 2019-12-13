@@ -1,4 +1,4 @@
-<div class="postBody">
+
                 
 <div id="cnblogs_post_body" class="blogpost-body cnblogs-markdown">
     <h1 id="django框架">Django框架</h1>
@@ -34,79 +34,4 @@
 <h2 id="722328734"><a href="https://www.cnblogs.com/Dr-wei/p/11735597.html">Haystack</a><a href="#722328734" class="esa-anchor">#</a></h2>
 
 </div>
-<div id="MySignature" style="display: block;"><div class="esa-post-signature"> 
-                        <p>作者：
-            Dr-wei
-        </p> 
-                        <p>出处：<a href="https://www.cnblogs.com/Dr-wei/p/11735604.html">https://www.cnblogs.com/Dr-wei/p/11735604.html</a></p> 
-                        <p>版权：本文采用「<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">署名-非商业性使用-相同方式共享 4.0 国际</a>」知识共享许可协议进行许可。</p> 
-                        <p></p> 
-                    </div></div>
-<div class="clear"></div>
-<div id="blog_post_info_block"><div id="BlogPostCategory">
-    分类: 
-            <a href="https://www.cnblogs.com/Dr-wei/category/1569623.html" target="_blank">Django</a></div>
-<div id="EntryTag">
-    标签: 
-            <a href="https://www.cnblogs.com/Dr-wei/tag/Django/">Django</a></div>
 
-    <div id="blog_post_info">
-                <div class="esa-sponsor">
-                    <a class="github" href="https://github.com/CNDrwei" target="_blank" title="Github"></a>
-                    <div class="text tr3">Sponsor</div>
-                    <ul class="box posa tr3">
-                        <li class="paypal">PayPal</li>
-                        <li class="alipay">AliPay</li>
-                        <li class="wechat">WeChat</li>
-                    </ul>
-                    <div id="QRBox" class="posa left-100">
-                        <div id="MainBox"></div>
-                    </div>
-                </div>
-<div id="green_channel">
-        <a href="javascript:void(0);" id="green_channel_digg" onclick="DiggIt(11735604,cb_blogId,1);green_channel_success(this,'谢谢推荐！');">好文要顶</a>
-        <a id="green_channel_follow" onclick="follow('1d710707-95ff-4dda-0252-08d6d8e95ab6');" href="javascript:void(0);">关注我</a>
-    <a id="green_channel_favorite" onclick="AddToWz(cb_entryId);return false;" href="javascript:void(0);">收藏该文</a>
-    <a id="green_channel_weibo" href="javascript:void(0);" title="分享至新浪微博" onclick="ShareToTsina()"><img src="https://common.cnblogs.com/images/icon_weibo_24.png" alt=""></a>
-    <a id="green_channel_wechat" href="javascript:void(0);" title="分享至微信" onclick="shareOnWechat()"><img src="https://common.cnblogs.com/images/wechat.png" alt=""></a>
-</div>
-<div id="author_profile">
-    <div id="author_profile_info" class="author_profile_info">
-            <a href="https://home.cnblogs.com/u/Dr-wei/" target="_blank"><img src="https://pic.cnblogs.com/face/1689270/20191028183644.png" class="author_avatar" alt=""></a>
-        <div id="author_profile_detail" class="author_profile_info">
-            <a href="https://home.cnblogs.com/u/Dr-wei/">Dr-wei</a><br>
-            <a href="https://home.cnblogs.com/u/Dr-wei/followees/">关注 - 20</a><br>
-            <a href="https://home.cnblogs.com/u/Dr-wei/followers/">粉丝 - 5</a>
-        </div>
-    </div>
-    <div class="clear"></div>
-    <div id="author_profile_honor"></div>
-    <div id="author_profile_follow">
-                <a href="javascript:void(0);" onclick="follow('1d710707-95ff-4dda-0252-08d6d8e95ab6');return false;">+加关注</a>
-    </div>
-</div>
-<div id="div_digg">
-    <div class="diggit" onclick="votePost(11735604,'Digg')">
-        <span class="diggnum" id="digg_count">1</span>
-    </div>
-    <div class="buryit" onclick="votePost(11735604,'Bury')">
-        <span class="burynum" id="bury_count">0</span>
-    </div>
-    <div class="clear"></div>
-    <div class="diggword" id="digg_tips">
-    </div>
-</div>
-
-<script type="text/javascript">
-    currentDiggType = 0;
-</script></div>
-    <div class="clear"></div>
-    <div id="post_next_prev">
-
-    <a href="https://www.cnblogs.com/Dr-wei/p/11735550.html" class="p_n_p_prefix">« </a> 上一篇：    <a href="https://www.cnblogs.com/Dr-wei/p/11735550.html" title="发布于 2018-10-24 22:44">Django REST Framework框架</a>
-    <br>
-    <a href="https://www.cnblogs.com/Dr-wei/p/11826287.html" class="p_n_p_prefix">» </a> 下一篇：    <a href="https://www.cnblogs.com/Dr-wei/p/11826287.html" title="发布于 2018-10-24 22:54">Python基础知识篇</a>
-
-</div>
-</div>
-            </div>
